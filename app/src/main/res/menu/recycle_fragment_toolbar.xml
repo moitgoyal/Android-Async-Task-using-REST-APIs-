@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/recycle_fragment_toolbar">
+    <item
+        android:id="@+id/recycleview_toolbar_title"
+        app:showAsAction="always"
+        android:title="MovieList">
+    </item>
+</menu>
